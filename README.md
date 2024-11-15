@@ -12,25 +12,37 @@
     <th width=34% style="text-align:center">Result</th>
   </tr>
   <tr>
-    <td colspan="3" ><img src="gif/make_cake.gif"></td>
+    <td colspan="3" ><img src="gif/duck_run.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/dog_wash.gif"></td>
+    <td colspan="3"><img src="gif/jellyfish.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/duck_stand.gif"></td>
+    <td colspan="3"><img src="gif/man.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/play_guitar.gif"></td>
+    <td colspan="3"><img src="gif/moon_walk.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/llama.gif"></td>
+    <td colspan="3"><img src="gif/polarbear2.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/dive.gif"></td>
+    <td colspan="3"><img src="gif/swan.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/dog_run.gif"></td>
+    <td colspan="3"><img src="gif/wolf"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/ball"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/boat"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/cat"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/panda_run"></td>
   </tr>
 </table>
 
