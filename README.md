@@ -30,19 +30,19 @@
     <td colspan="3"><img src="gif/swan.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/wolf"></td>
+    <td colspan="3"><img src="gif/wolf.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/ball"></td>
+    <td colspan="3"><img src="gif/ball.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/boat"></td>
+    <td colspan="3"><img src="gif/boat.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/cat"></td>
+    <td colspan="3"><img src="gif/cat.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/panda_run"></td>
+    <td colspan="3"><img src="gif/panda_run.gif"></td>
   </tr>
 </table>
 
