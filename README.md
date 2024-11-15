@@ -31,3 +31,35 @@
     <td colspan="3"><img src="gif/dog_run.gif"></td>
   </tr>
 </table>
+
+
+- In the following samples, we brush a  mask for fluids in the input image and only set a scalar motion strength:
+
+<table>
+  <tr>
+    <th width=34% style="text-align:center">Input Image</th>
+    <th width=32% style="text-align:center">Brush Mask</th>
+    <th width=34% style="text-align:center">Result</th>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/chimney.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/explode.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/skeleton.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/steamship.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/wand.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/candle.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/bonfire.gif"></td>
+  </tr>
+</table>
