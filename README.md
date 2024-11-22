@@ -57,9 +57,6 @@
   <tr>
     <td colspan="3"><img src="gif/cat.gif"></td>
   </tr>
-  <tr>
-    <td colspan="3"><img src="gif/panda_run.gif"></td>
-  </tr>
 </table>
 
 - In the following samples, we **brush a  mask for movable objects** in the input image and only set a scalar motion strength:
