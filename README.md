@@ -13,6 +13,9 @@
     <th width=34% style="text-align:center">Result</th>
   </tr>
   <tr>
+    <td colspan="3"><img src="gif/ast_drag.gif"></td>
+  </tr>
+  <tr>
     <td colspan="3"><img src="gif/man.gif"></td>
   </tr>
   <tr>
@@ -224,5 +227,23 @@ In the following samples, we **brush a  mask for fluids** in the input image and
   <tr>
     <td colspan="2"><img src="gif/hair_2.gif"></td>
     <td colspan="2"><img src="gif/hair_3.gif"></td>
+  </tr>
+</table>
+
+
+- 【Union】We use dragging, camera movement, and motion brush in one single sample. We mask the brush-unit as red and mask the drag-unit as green.
+
+ 
+<table>
+  <tr>
+    <th width=33% style="text-align:center">Input Image & Mask</th>
+    <th width=33% style="text-align:center">Controls</th>
+    <th width=34% style="text-align:center">Result</th>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/union_cat.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/union_human.gif"></td>
   </tr>
 </table>
