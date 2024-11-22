@@ -1,6 +1,25 @@
 # Anonymous repository for paper submission: CVPR 2025, paper ID 7946
 
 
+## Dragging
+
+- In the following samples, we **drag the movable objects** in the input image:
+
+
+<table>
+  <tr>
+    <th width=34% style="text-align:center">Input Image</th>
+    <th width=32% style="text-align:center">Object Dragging</th>
+    <th width=34% style="text-align:center">Result</th>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/man.gif"></td>
+  </tr>
+</table>
+
+
+
+## Camera Movement + Drag
 
 - In the following samples, we **move the camera and drag the movable objects** in the input image:
 
@@ -16,9 +35,6 @@
   </tr>
   <tr>
     <td colspan="3"><img src="gif/jellyfish.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><img src="gif/man.gif"></td>
   </tr>
   <tr>
     <td colspan="3"><img src="gif/moon_walk.gif"></td>
