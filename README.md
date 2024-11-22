@@ -22,7 +22,13 @@
     <td colspan="3"><img src="gif/ship_drag.gif"></td>
   </tr>
   <tr>
+    <td colspan="3"><img src="gif/two_ducks.gif"></td>
+  </tr>
+  <tr>
     <td colspan="3"><img src="gif/dragon_drag.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/two_pigs.gif"></td>
   </tr>
   <tr>
     <td colspan="3"><img src="gif/ufo_drag.gif"></td>
@@ -178,14 +184,17 @@ In the following samples, we **brush a  mask for fluids** in the input image and
 
 <table>
   <tr>
-    <th width=34% style="text-align:center">Input Image</th>
-    <th width=32% style="text-align:center">Controls</th>
-    <th width=34% style="text-align:center">Result</th>
+    <th width=25% style="text-align:center">Input Image</th>
+    <th width=25% style="text-align:center">Result</th>
+    <th width=25% style="text-align:center">Input Image</th>
+    <th width=25% style="text-align:center">Result</th>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/hair_0.gif"></td>
+    <td colspan="2"><img src="gif/hair_0.gif"></td>
+    <td colspan="2"><img src="gif/hair_1.gif"></td>
   </tr>
   <tr>
-    <td colspan="3"><img src="gif/hair_1.gif"></td>
+    <td colspan="2"><img src="gif/hair_2.gif"></td>
+    <td colspan="2"><img src="gif/hair_3.gif"></td>
   </tr>
 </table>
