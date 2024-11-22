@@ -141,7 +141,7 @@ In the following samples, we **brush a  mask for fluids** in the input image and
 
 ## Comprehensive Usage for Creation
 
-- We fix the foreground and dolly out the background, creating a Hitchcock-like camera movement effect.
+- 【Hitchcock】We fix the foreground and dolly out the background, creating a Hitchcock-like camera movement effect.
 
 <table>
   <tr>
@@ -157,6 +157,35 @@ In the following samples, we **brush a  mask for fluids** in the input image and
   </tr>
 </table>
 
+- 【Surrounding Character】We move the camera around a character and always keep the main character in place, which creates a beautiful dynamic portrait video.
+
+<table>
+  <tr>
+    <th width=34% style="text-align:center">Input Image</th>
+    <th width=32% style="text-align:center">Controls</th>
+    <th width=34% style="text-align:center">Result</th>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/surrounding_0.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/surrounding_1.gif"></td>
+  </tr>
+</table>
 
 
+- 【Flowing Hair】We consider the whole image as borderland, set a motion strength, and set the prompt as "flowing in the wind". Then the artistic portraits can have some dynamics.
 
+<table>
+  <tr>
+    <th width=34% style="text-align:center">Input Image</th>
+    <th width=32% style="text-align:center">Controls</th>
+    <th width=34% style="text-align:center">Result</th>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/hair_0.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/hair_1.gif"></td>
+  </tr>
+</table>
