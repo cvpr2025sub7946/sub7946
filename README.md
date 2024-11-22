@@ -36,6 +36,34 @@
 </table>
 
 
+## Camera Movement
+
+- In the following samples, we **only move the camera** for the input sample:
+
+
+<table>
+  <tr>
+    <th width=34% style="text-align:center">Input Image</th>
+    <th width=32% style="text-align:center">Camera Movement</th>
+    <th width=34% style="text-align:center">Result</th>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/camera_0.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/camera_1.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/camera_2.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/camera_3.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/camera_4.gif"></td>
+  </tr>
+</table>
+
 
 ## Camera Movement + Dragging
 
