@@ -15,11 +15,23 @@
   <tr>
     <td colspan="3"><img src="gif/man.gif"></td>
   </tr>
+  <tr>
+    <td colspan="3"><img src="gif/rolling_balls_1.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/ship_drag.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/dragon_drag.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/ufo_drag.gif"></td>
+  </tr>
 </table>
 
 
 
-## Camera Movement + Drag
+## Camera Movement + Dragging
 
 - In the following samples, we **move the camera and drag the movable objects** in the input image:
 
@@ -59,7 +71,9 @@
   </tr>
 </table>
 
-- In the following samples, we **brush a  mask for movable objects** in the input image and only set a scalar motion strength:
+## Motion Brush for Movable Objects
+
+In the following samples, we **brush a  mask for movable objects** in the input image and only set a scalar motion strength:
 
 <table>
   <tr>
@@ -91,7 +105,9 @@
 </table>
 
 
-- In the following samples, we **brush a  mask for fluids** in the input image and only set a scalar motion strength:
+## Motion Brush for Visual Effects
+
+In the following samples, we **brush a  mask for fluids** in the input image and only set a scalar motion strength:
 
 <table>
   <tr>
@@ -121,3 +137,26 @@
     <td colspan="3" ><img src="gif/bonfire.gif"></td>
   </tr>
 </table>
+
+
+## Comprehensive Usage for Creation
+
+- We fix the foreground and dolly out the background, creating a Hitchcock-like camera movement effect.
+
+<table>
+  <tr>
+    <th width=34% style="text-align:center">Input Image</th>
+    <th width=32% style="text-align:center">Controls</th>
+    <th width=34% style="text-align:center">Result</th>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/dolly_zoom_0.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3"><img src="gif/dolly_zoom_1.gif"></td>
+  </tr>
+</table>
+
+
+
+
