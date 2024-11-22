@@ -3,7 +3,7 @@
 
 ## Dragging
 
-- In the following samples, we **drag the movable objects** in the input image:
+- In the following samples, we **drag the movable objects (both translation/rotation; both single/multiple objects)** in the input image:
 
 
 <table>
