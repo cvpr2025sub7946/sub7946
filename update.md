@@ -151,6 +151,35 @@ To prove the adaptive nature of our method, we present some results on another b
 
 ## More Complicated Motions
 
+As suggested, we show the result of combination of drag and motion brush. In the following samples, we select a brush-unit and a drag-unit, colored in red and green, respectively.
+
+<table>
+  <tr>
+    <th width=25% style="text-align:center">Input Image</th>
+    <th width=25% style="text-align:center">Partition</th>
+    <th width=25% style="text-align:center">Dragging Signal</th>
+    <th width=25% style="text-align:center">Result</th>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/brush_drag_20250131163848.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/brush_drag_20250131165220.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/brush_drag_20250131165423.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/brush_drag_20250131172014.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/brush_drag_20250131173212.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/brush_drag_20250131173435.gif"></td>
+  </tr>
+</table>
+
 
 ## Multiple motion strength
 
