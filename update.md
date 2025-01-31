@@ -1,4 +1,4 @@
-## Anonymous repository for paper submission: CVPR 2025, paper ID 7946
+# Anonymous repository for paper submission: CVPR 2025, paper ID 7946
 
 # Supplementary Visual Results
 
@@ -57,17 +57,35 @@ As suggested, we show the comparison on camera control task. We can see that our
     <th width=25% style="text-align:center">Ours</th>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/004-3.gif"></td>
+    <td colspan="4" ><img src="gif/camera/20241001235955.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/006-2.gif"></td>
+    <td colspan="4" ><img src="gif/camera/20241002002519.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/007-3.gif"></td>
+    <td colspan="4" ><img src="gif/camera/20241120010734.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/011-0.gif"></td>
+    <td colspan="4" ><img src="gif/camera/20241120014418.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/camera/20241120034631.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/camera/20241120041540.gif"></td>
   </tr>
 </table>
+
+
+## Experiment on another base model
+
+To prove the adaptive nature of our method, we present some results on another base model, [Seaweed](https://jimeng.jianying.com/ai-tool/image/generate).
+
+
+- Camera Control:
+
+- Dragging:
+
+- Motion Brush:
 
 
