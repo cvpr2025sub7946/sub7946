@@ -147,3 +147,6 @@ To prove the adaptive nature of our method, we present some results on another b
     <td colspan="3" ><img src="gif/seaweed_brush_2.gif"></td>
   </tr>
 </table>
+
+
+## More Complicated Motions
