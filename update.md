@@ -150,3 +150,45 @@ To prove the adaptive nature of our method, we present some results on another b
 
 
 ## More Complicated Motions
+
+
+## Multiple motion strength
+
+We show the results under different motion strength under our framework. It is evident that as the motion strength increases, the amplitude of the motions enlarged and shows a direct positive correlation with the set values of motion strength.
+
+
+<table>
+  <tr>
+    <th width=25% style="text-align:center">Input & GT Preview</th>
+    <th width=25% style="text-align:center">MS=0</th>
+    <th width=25% style="text-align:center">MS=200</th>
+    <th width=25% style="text-align:center">MS=600</th>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_0.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_1.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_2.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_3.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_4.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_5.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_6.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_7.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/range_8.gif"></td>
+  </tr>
+</table>
