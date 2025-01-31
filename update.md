@@ -94,9 +94,39 @@ To prove the adaptive nature of our method, we present some results on another b
   <tr>
     <td colspan="3" ><img src="gif/seaweed_camera_0_compress.gif"></td>
   </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/seaweed_camera_1_compress.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/seaweed_camera_2_compress.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/seaweed_camera_3_compress.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/seaweed_camera_4_compress.gif"></td>
+  </tr>
 </table>
 
 - Dragging:
+
+
+<table>
+  <tr>
+    <th width=34% style="text-align:center">Generated</th>
+    <th width=34% style="text-align:center">Control Signal</th>
+    <th width=33% style="text-align:center">Input Image</th>
+  </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/seaweed_drag_0_compress.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/seaweed_drag_1_compress.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/seaweed_drag_2_compress.gif"></td>
+  </tr>
+</table>
 
 - Motion Brush:
 
