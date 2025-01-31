@@ -84,6 +84,18 @@ To prove the adaptive nature of our method, we present some results on another b
 
 - Camera Control:
 
+
+<table>
+  <tr>
+    <th width=34% style="text-align:center">Generated</th>
+    <th width=34% style="text-align:center">Control Signal</th>
+    <th width=33% style="text-align:center">Input Image</th>
+  </tr>
+  <tr>
+    <td colspan="3" ><img src="gif/seaweed_camera_0_compress.gif"></td>
+  </tr>
+</table>
+
 - Dragging:
 
 - Motion Brush:
