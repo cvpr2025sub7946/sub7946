@@ -19,7 +19,7 @@ Generally, user operations can be divided into two parts: unit partition and uni
   </tr>
 </table>
 
-- In the following case, we show a sample of only camera control, where the whole image is considered as Unit-0, iie, the borderland unit. 
+- In the following case, we show a sample of only camera control, where the whole image is considered as Unit-0 (the borderland unit). 
 
 <table>
   <tr>
@@ -44,8 +44,30 @@ Generally, user operations can be divided into two parts: unit partition and uni
 </table>
 
 
-We show our camera control results with ground truth preview here, which demonstrates our pixel-level control capabilities.
+## Camera Control Comparison
 
-We also list the results of the comparing methods for the qualitative comparison. We can observe that our control precision is significantly higher than that of comparative methods.
+As suggested, we show the comparison on camera control task. We can see that our control precision is significantly higher than that of comparative methods.
+
+
+<table>
+  <tr>
+    <th width=25% style="text-align:center">Input & GT Preview</th>
+    <th width=25% style="text-align:center">CameraCtrl</th>
+    <th width=25% style="text-align:center">MotionCtrl</th>
+    <th width=25% style="text-align:center">Ours</th>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/camera/004-3.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/camera/006-2.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/camera/007-3.gif"></td>
+  </tr>
+  <tr>
+    <td colspan="4" ><img src="gif/camera/011-0.gif"></td>
+  </tr>
+</table>
 
 
