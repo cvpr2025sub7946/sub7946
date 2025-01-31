@@ -57,22 +57,22 @@ As suggested, we show the comparison on camera control task. We can see that our
     <th width=25% style="text-align:center">Ours</th>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/20241001235955.gif"></td>
+    <td colspan="4" ><img src="gif/camera_comparison_20241001235955_compress.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/20241002002519.gif"></td>
+    <td colspan="4" ><img src="gif/camera_comparison_20241002002519.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/20241120010734.gif"></td>
+    <td colspan="4" ><img src="gif/camera_comparison_20241120010734_compress.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/20241120014418.gif"></td>
+    <td colspan="4" ><img src="gif/camera_comparison_20241120014418_compress.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/20241120034631.gif"></td>
+    <td colspan="4" ><img src="gif/camera_comparison_20241120034631.gif"></td>
   </tr>
   <tr>
-    <td colspan="4" ><img src="gif/camera/20241120041540.gif"></td>
+    <td colspan="4" ><img src="gif/camera_comparison_20241120041540_compress.gif"></td>
   </tr>
 </table>
 
