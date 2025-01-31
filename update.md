@@ -95,13 +95,10 @@ To prove the adaptive nature of our method, we present some results on another b
     <td colspan="3" ><img src="gif/seaweed_camera_0_compress.gif"></td>
   </tr>
   <tr>
-    <td colspan="3" ><img src="gif/seaweed_camera_1_compress.gif"></td>
+    <td colspan="3" ><img src="gif/seaweed_camera_3_compress.gif"></td>
   </tr>
   <tr>
     <td colspan="3" ><img src="gif/seaweed_camera_2_compress.gif"></td>
-  </tr>
-  <tr>
-    <td colspan="3" ><img src="gif/seaweed_camera_3_compress.gif"></td>
   </tr>
   <tr>
     <td colspan="3" ><img src="gif/seaweed_camera_4_compress.gif"></td>
